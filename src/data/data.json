@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Mustafizur Rahman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
+        "salary": 3,
+        "role":"Bowler",
+        "id": 1
+    },
+    {
+        "name": "Soumya Sarkar",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170900/soumya-sarkar.jpg",
+        "salary": 3,
+        "role":"Batsman",
+        "id": 2
+    },
+    {
+        "name": "Mashrafe Mortaza",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170920/mashrafe-mortaza.jpg",
+        "salary": 6,
+        "role":"Bowler",
+        "id": 3
+    },
+    {
+        "name": "Mushfiqur Rahim",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
+        "salary": 4,
+        "role":"WK-Batsman",
+        "id": 4
+    },
+    {
+        "name": "Tamim Iqbal",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg",
+        "salary": 4,
+        "role":"Batsman",
+        "id": 5
+    },
+    {
+        "name": "Shakib Al Hasan",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+        "salary": 4,
+        "role":"Batting Allrounder",
+        "id": 6
+    },
+    {
+        "name": "Liton Das",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg",
+        "salary": 3,
+        "role":"WK-Batsman",
+        "id": 7
+    },
+    {
+        "name": "Mahmudullah",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170905/mahmudullah.jpg",
+        "salary": 4,
+        "role":"Batting Allrounder",
+        "id": 8
+    },
+    {
+        "name": "Virat Kohli",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170661/virat-kohli.jpg",
+        "salary": 16,
+        "role":"Batsman",
+        "id": 9
+    },
+    {
+        "name": "Shikhar Dhawan",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170660/shikhar-dhawan.jpg",
+        "salary": 12,
+        "role":"Batsman",
+        "id": 10
+    },
+    {
+        "name": "Rohit Sharma",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170658/rohit-sharma.jpg",
+        "salary": 11,
+        "role":"Batsman",
+        "id": 11
+    },
+    {
+        "name": "Hardik Pandya",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170666/hardik-pandya.jpg",
+        "salary": 12,
+        "role":"Batting Allrounder",
+        "id": 12
+    },
+    {
+        "name": "Mohammed Shami",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170684/mohammed-shami.jpg",
+        "salary": 9,
+        "role":"Bowler",
+        "id": 13
+    },
+    {
+        "name": "Kuldeep Yadav",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170683/kuldeep-yadav.jpg",
+        "salary": 9,
+        "role":"Bowler",
+        "id": 14
+    },
+    {
+        "name": "Navdeep Saini",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c178690/navdeep-saini.jpg",
+        "salary": 10,
+        "role":"Bowler",
+        "id": 15
+    }
+]

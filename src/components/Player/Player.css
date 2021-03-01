@@ -1,0 +1,15 @@
+.players-container{
+    display: flex;
+}
+.player-container{
+    width: 70%;
+    margin: 0 5px 0 20px;
+    border-right: 1px solid lightgray;
+}
+.cart-container{
+    width: 30%;
+    margin: 0 20px 0 0;
+}
+.cart-container h3{
+    margin: 10px 0 0 10px;
+}

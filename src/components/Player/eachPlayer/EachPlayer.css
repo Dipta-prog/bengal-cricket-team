@@ -1,0 +1,16 @@
+.EachPlayer{
+    display: flex;
+    margin: 0 10px 5px 0;
+    padding-bottom: 5px;
+}
+.info{
+    padding-left: 20px;
+}
+.add-btn{
+    background-image: linear-gradient(45deg, #009270, #9e4333);
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
